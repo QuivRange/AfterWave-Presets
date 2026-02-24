@@ -3,8 +3,8 @@
   "base_url": "https://raw.githubusercontent.com/QuivRange/AfterWave-Presets/main/",
   "defaults": {
     "chill": "defaults/d_chill.zip",
-    "hype": "defaults/d_hype.zip",
-    "upbeat": "defaults/d_upbeat.zip"
+    "hype": "defaults/d_chill.zip",
+    "upbeat": "defaults/d_chill.zip"
   },
   "presets": {
   }
